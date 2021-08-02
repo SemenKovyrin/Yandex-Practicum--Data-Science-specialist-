@@ -15,4 +15,4 @@
 Проанализировать возможную прибыль и риски.       
 
 ## Используемые библиотеки
- *pandas*, *matplotlib*, *numpy*, *seaborn*, *sklearn*  
+ *pandas*, *numpy*, *seaborn*, *matplotlib*, *scipy*, *sklearn*   
