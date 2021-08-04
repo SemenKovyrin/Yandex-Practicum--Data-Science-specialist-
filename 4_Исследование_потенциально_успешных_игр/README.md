@@ -23,3 +23,9 @@
 
 ## Используемые библиотеки
 *pandas*, *matplotlib*, *numpy*, *scipy*, *plotly*, *sklearn*
+
+## Вывод
+
+Стоит вкладываться в платформы семейства PS4, XOne, 3DS.  
+Жанры которые лучше использовать: Shooter, Action, Sports, Role-Playing.  
+Категории: M, E, T, E10+.  
